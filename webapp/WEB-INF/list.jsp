@@ -20,7 +20,7 @@
 				</br>
 			</c:forEach>
 			
-			<a href="/dy?cmd=blockAll">归档全部主播</a>
+			<a href="/dy?cmd=blockAll">归档主播</a>
 			<a href="/dy?cmd=spider">爬取新主播</a>
 
 
